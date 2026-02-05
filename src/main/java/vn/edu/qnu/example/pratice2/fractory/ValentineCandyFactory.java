@@ -5,7 +5,7 @@ import vn.edu.qnu.example.pratice2.candy.ValentineCandy;
 
 public class ValentineCandyFactory extends CandyFactory {
     @Override
-    Candy createCandy() {
+    public Candy createCandy() {
         return new ValentineCandy();
     }
 }
