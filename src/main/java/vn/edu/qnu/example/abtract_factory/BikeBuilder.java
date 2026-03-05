@@ -1,8 +1,8 @@
-package vn.edu.qnu.example.practice3;
+package vn.edu.qnu.example.abtract_factory;
 
-import vn.edu.qnu.example.practice3.factory.BikeFactory;
-import vn.edu.qnu.example.practice3.factory.MoutainBikeFactory;
-import vn.edu.qnu.example.practice3.factory.RoadBikeFactory;
+import vn.edu.qnu.example.abtract_factory.factory.BikeFactory;
+import vn.edu.qnu.example.abtract_factory.factory.MoutainBikeFactory;
+import vn.edu.qnu.example.abtract_factory.factory.RoadBikeFactory;
 
 public class BikeBuilder {
     public static void main(String[] args) {
