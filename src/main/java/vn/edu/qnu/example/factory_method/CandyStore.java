@@ -1,9 +1,9 @@
-package vn.edu.qnu.example.pratice2;
+package vn.edu.qnu.example.factory_method;
 
-import vn.edu.qnu.example.pratice2.candy.Candy;
-import vn.edu.qnu.example.pratice2.fractory.BananaCandyFractory;
-import vn.edu.qnu.example.pratice2.fractory.CandyFactory;
-import vn.edu.qnu.example.pratice2.fractory.ValentineCandyFactory;
+import vn.edu.qnu.example.factory_method.candy.Candy;
+import vn.edu.qnu.example.factory_method.fractory.BananaCandyFractory;
+import vn.edu.qnu.example.factory_method.fractory.CandyFactory;
+import vn.edu.qnu.example.factory_method.fractory.ValentineCandyFactory;
 
 import java.util.ArrayList;
 import java.util.List;

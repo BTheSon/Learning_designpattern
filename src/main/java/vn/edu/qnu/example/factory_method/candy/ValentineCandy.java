@@ -1,4 +1,4 @@
-package vn.edu.qnu.example.pratice2.candy;
+package vn.edu.qnu.example.factory_method.candy;
 
 public class ValentineCandy implements Candy {
     @Override

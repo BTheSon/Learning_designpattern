@@ -1,4 +1,4 @@
-package vn.edu.qnu.example.practice1;
+package vn.edu.qnu.example.singleton;
 
 public class PrintSpooler {
     private static  PrintSpooler instance;
