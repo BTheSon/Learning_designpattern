@@ -1,4 +1,4 @@
-package vn.edu.qnu.example;
+package vn.edu.qnu.example.pratice2;
 
 import vn.edu.qnu.example.pratice2.candy.Candy;
 import vn.edu.qnu.example.pratice2.fractory.BananaCandyFractory;
