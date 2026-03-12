@@ -7,7 +7,7 @@ public class Person implements Cloneable{
         this.name = name;
     }
     public Person(Person some) {
-        this.name = some;
+        this.name = some.name;
     }
 
     @Override
