@@ -11,6 +11,6 @@ public class Salesperson implements Payee{
 
     @Override
     public void payExpenses(int amount) {
-        System.out.println("Salesperson " + name + " được trả " + amount + " USD (manager: " + manager + ")");
+        System.out.println("Salesperson " + name + " được trả " + amount + " USD (manager: " + manager.toString() + ")");
     }
 }
